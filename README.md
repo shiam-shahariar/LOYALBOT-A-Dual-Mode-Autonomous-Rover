@@ -1,6 +1,6 @@
 # LOYALBOT - A Dual Mode Autonomous Rover
 
-**An Arduino-Based Dual-Mode Rover for Object Following and Obstacle Avoidance**
+**An Arduino Based Dual Mode Rover for Object Following and Obstacle Avoidance**
 
 ## Overview
 
