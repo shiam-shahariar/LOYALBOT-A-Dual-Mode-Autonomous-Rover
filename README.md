@@ -15,6 +15,8 @@ LOYALBOT is a low cost autonomous robotic rover developed as a capstone project 
 | Md. Ashiqur Rahman    | 23-54596-3 |    CSE     |
 | Adiba Akram           | 23-53572-3 |    CSE     |
 
+**Special Thanks to Md. Sanjit Islam Kafil**
+
 **Institution:** American International University-Bangladesh (AIUB)  
 **Course:** Microprocessor and Embedded Systems
 **Faculty:** Dr. Md. Rukonuzzaman  
